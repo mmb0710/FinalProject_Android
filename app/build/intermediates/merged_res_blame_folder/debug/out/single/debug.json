@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/font_rozha_one_regular.ttf.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/font/rozha_one_regular.ttf"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_result_item.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/result_item.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/font_app_font.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/font/app_font.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_activity_quiz.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/font_bodonimoda_extrabold.ttf.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/font/bodonimoda_extrabold.ttf"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_activity_detail.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_rounded_corner.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_baseline_star_36.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_baseline_star_36.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_app_icon.png.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/app_icon.png"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_favourite_item.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/favourite_item.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_launcher_round.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_launcher.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_activity_main_gurminder.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/activity_main_gurminder.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_help_menu.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/help_menu.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_dark_rounded_corner.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/dark_rounded_corner.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/drawable_ic_baseline_star_outline_36.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/drawable/ic_baseline_star_outline_36.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-37:/layout_quiz_dialog.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/quiz_dialog.xml"
+    }
+]

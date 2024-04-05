@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cuoiky.andoid.dictionaryapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:5:5-76
+12-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:5:22-73
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:6:22-76
+14
+15    <application
+15-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:7:5-35:19
+16        android:allowBackup="true"
+16-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.7.0] /Users/mmb0702/.gradle/caches/transforms-3/0212d0c0c0b99c5d00c15a82a811f4d1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@drawable/ic_launcher"
+20-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:9:9-45
+21        android:label="@string/dictionary"
+21-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:10:9-43
+22        android:roundIcon="@drawable/ic_launcher_round"
+22-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:11:9-56
+23        android:supportsRtl="true"
+23-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:12:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.DictionaryApp" >
+25-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:13:9-51
+26        <activity
+26-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:14:9-17:40
+27            android:name="algonquin.cst2335.finalproject.ui.main.QuizActivity"
+27-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:15:13-49
+28            android:configChanges="orientation|screenSize"
+28-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:16:13-59
+29            android:exported="false" />
+29-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:17:13-37
+30        <activity
+30-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:18:9-20:40
+31            android:name="algonquin.cst2335.finalproject.ui.main.DetailActivity"
+31-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:19:13-51
+32            android:exported="false" />
+32-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:20:13-37
+33        <activity
+33-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:21:9-31:20
+34            android:name="algonquin.cst2335.finalproject.ui.main.MainActivityGurminder"
+34-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:22:13-58
+35            android:configChanges="orientation|screenSize"
+35-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:24:13-59
+36            android:exported="true"
+36-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:23:13-36
+37            android:windowSoftInputMode="adjustPan" >
+37-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:25:13-52
+38            <intent-filter>
+38-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:26:13-30:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:27:17-69
+39-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:27:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:29:17-77
+41-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:29:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:18:9-20:40
+45            android:name="algonquin.cst2335.finalproject.ui.main.DetailActivity"
+45-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:19:13-51
+46            android:exported="false" />
+46-->/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/AndroidManifest.xml:20:13-37
+47
+48        <service
+48-->[androidx.room:room-runtime:2.5.0-alpha01] /Users/mmb0702/.gradle/caches/transforms-3/014662a244e2ffacc75e9d6bec5b64db/transformed/room-runtime-2.5.0-alpha01/AndroidManifest.xml:26:9-30:63
+49            android:name="androidx.room.MultiInstanceInvalidationService"
+49-->[androidx.room:room-runtime:2.5.0-alpha01] /Users/mmb0702/.gradle/caches/transforms-3/014662a244e2ffacc75e9d6bec5b64db/transformed/room-runtime-2.5.0-alpha01/AndroidManifest.xml:27:13-74
+50            android:directBootAware="true"
+50-->[androidx.room:room-runtime:2.5.0-alpha01] /Users/mmb0702/.gradle/caches/transforms-3/014662a244e2ffacc75e9d6bec5b64db/transformed/room-runtime-2.5.0-alpha01/AndroidManifest.xml:28:13-43
+51            android:exported="false" />
+51-->[androidx.room:room-runtime:2.5.0-alpha01] /Users/mmb0702/.gradle/caches/transforms-3/014662a244e2ffacc75e9d6bec5b64db/transformed/room-runtime-2.5.0-alpha01/AndroidManifest.xml:29:13-37
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+55            android:authorities="com.cuoiky.andoid.dictionaryapp.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.0.0] /Users/mmb0702/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mmb0702/.gradle/caches/transforms-3/087e3e4f119bd3d4d28bb978bd0efd9b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mmb0702/.gradle/caches/transforms-3/087e3e4f119bd3d4d28bb978bd0efd9b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mmb0702/.gradle/caches/transforms-3/087e3e4f119bd3d4d28bb978bd0efd9b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

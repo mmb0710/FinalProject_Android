@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/activity_quiz.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/help_menu.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/help_menu.xml"
+    },
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/favourite_item.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/favourite_item.xml"
+    },
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/result_item.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/result_item.xml"
+    },
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/quiz_dialog.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/quiz_dialog.xml"
+    },
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/activity_main_gurminder.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/activity_main_gurminder.xml"
+    },
+    {
+        "merged": "http://schemas.android.com/apk/res-auto.app-mergeDebugResources-40:/layout/activity_detail.xml",
+        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/activity_detail.xml"
+    }
+]

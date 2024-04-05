@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res"><file name="rounded_corner" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/rounded_corner.xml" qualifiers="" type="drawable"/><file name="dark_rounded_corner" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/dark_rounded_corner.xml" qualifiers="" type="drawable"/><file name="app_icon" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/app_icon.png" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_baseline_star_outline_36" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_baseline_star_outline_36.xml" qualifiers="" type="drawable"/><file name="ic_baseline_arrow_back_ios_new_24" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_star_36" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_baseline_star_36.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_launcher.xml" qualifiers="" type="drawable"/><file name="ic_launcher_round" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_launcher_round.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/drawable/ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="quiz_dialog" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/quiz_dialog.xml" qualifiers="" type="layout"/><file name="activity_quiz" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/activity_quiz.xml" qualifiers="" type="layout"/><file name="activity_detail" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/activity_detail.xml" qualifiers="" type="layout"/><file name="favourite_item" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/favourite_item.xml" qualifiers="" type="layout"/><file name="activity_main_gurminder" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/activity_main_gurminder.xml" qualifiers="" type="layout"/><file name="help_menu" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/help_menu.xml" qualifiers="" type="layout"/><file name="result_item" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/layout/result_item.xml" qualifiers="" type="layout"/><file path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/values-night/themes_Gurminder.xml" qualifiers="night-v8"><style name="Theme.DictionaryApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/values/themes_Gurminder.xml" qualifiers=""><style name="Theme.DictionaryApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryColorVariant</item>
+        <item name="colorOnPrimary">@color/secondaryColor</item>
+        
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryColorVariant</item>
+        <item name="colorOnSecondary">@color/primaryColor</item>
+        
+    </style><style name="BlackCursorSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="colorControlActivated">@color/primaryColor</item>
+    </style><style name="SynonymTextStyle" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textStyle">italic</item>
+    </style><style name="PronunciationTextStyle" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/secondaryColorVariant</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="DarkFavWordTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/dark_rounded_corner</item>
+    </style><style name="LightFavWordTextStyle">
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:background">@drawable/rounded_corner</item>
+    </style></file><file path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/values/strings_Gurminder.xml" qualifiers=""><string name="app_name">Dictionary App</string><string name="dictionary">Dictionary</string><string name="recent">Recent</string><string name="definitions">Definitions</string><string name="synonyms">Synonyms</string><string name="examples">Examples</string><string name="results">Results</string><string name="favourites">Favourites</string><string name="remove">Remove</string><string name="test">Test your vocabulary</string><string name="you_re_a_quizzard_harry">You\'re a Quizzard, Harry!</string><string name="next">Next</string><string-array name="levelList">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array><string-array name="areaList">
+        <item>ES</item>
+        <item>MS</item>
+        <item>HS</item>
+        <item>KSAT</item>
+        <item>TOEIC</item>
+        <item>TOEFL</item>
+        <item>TEPS</item>
+        <item>SAT</item>
+        <item>IETLS</item>
+        <item>GRE</item>
+        <item>GMAT</item>
+        <item>OVERALL</item>
+    </string-array></file><file path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/values/colors_Gurminder.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="primaryColor">#000</color><color name="primaryColorVariant">#CAC7C7</color><color name="secondaryColor">#fff</color><color name="secondaryColorVariant">#4da2ff</color><color name="lightGrey">#f2f2f2</color><color name="darkGrey">#575757</color><color name="success">#00c851</color><color name="danger">#ff4444</color></file><file name="backup_rules" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/xml/backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/xml/data_extraction_rules.xml" qualifiers="" type="xml"/><file name="rozha_one_regular" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/font/rozha_one_regular.ttf" qualifiers="" type="font"/><file name="app_font" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/font/app_font.xml" qualifiers="" type="font"/><file name="bodonimoda_extrabold" path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/main/res/font/bodonimoda_extrabold.ttf" qualifiers="" type="font"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/mmb0702/Desktop/FinalProject_Android/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/mmb0702/Desktop/FinalProject_Android/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/mmb0702/Desktop/FinalProject_Android/app/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
