@@ -1,114 +1,150 @@
 [
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_activity_detail.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/activity_detail.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_list_similar_recipe.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/list_similar_recipe.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_activity_quiz.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/activity_quiz.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_time.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_time.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_ic_baseline_arrow_back_ios_new_24.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/ic_baseline_arrow_back_ios_new_24.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_activity_quiz.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_quiz.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/xml_backup_rules.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/xml/backup_rules.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_help_menu.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/help_menu.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_help_menu.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/help_menu.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_list_random_recipe.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/list_random_recipe.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_ic_launcher_round.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/ic_launcher_round.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_servings.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_servings.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_ic_launcher_background.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/ic_launcher_background.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_launcher.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-xxhdpi/ic_launcher_foreground.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/font_rozha_one_regular.ttf.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/font/rozha_one_regular.ttf"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/font_bodonimoda_extrabold.ttf.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/font/bodonimoda_extrabold.ttf"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_rounded_corner.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/rounded_corner.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-xhdpi/ic_launcher_foreground.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/xml_ic_launcher.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/xml/ic_launcher.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_rounded_corner.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/rounded_corner.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/font_bodonimoda_extrabold.ttf.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/font/bodonimoda_extrabold.ttf"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_dark_rounded_corner.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/dark_rounded_corner.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_baseline_arrow_back_ios_new_24.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-ldpi/ic_launcher_foreground.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/font_app_font.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/font/app_font.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_quiz_dialog.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/quiz_dialog.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_dark_rounded_corner.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/dark_rounded_corner.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/xml_data_extraction_rules.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/xml/data_extraction_rules.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_ic_baseline_star_36.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/ic_baseline_star_36.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_home.png.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/home.png"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_activity_main_gurminder.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/activity_main_gurminder.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/menu_menu_main_aditya.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/menu/menu_main_aditya.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_ic_baseline_star_outline_36.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/ic_baseline_star_outline_36.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_spinner_inner_text.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/spinner_inner_text.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_list_meal_ingredients.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/list_meal_ingredients.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/font_app_font.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/font/app_font.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_quiz_dialog.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/quiz_dialog.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_app_icon.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/app_icon.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_favourite_item.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/favourite_item.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_favourite_item.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/favourite_item.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable_ic_launcher.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/drawable/ic_launcher.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_baseline_star_36.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_baseline_star_36.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-mdpi/ic_launcher_foreground.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_like.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_like.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/layout_result_item.xml.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/layout/result_item.xml"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_activity_main_meet.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_main_meet.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/font_rozha_one_regular.ttf.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-main-43:/font/rozha_one_regular.ttf"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_activity_main_gurminder.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_main_gurminder.xml"
     },
     {
-        "merged": "http://schemas.android.com/apk/res-auto.app-debug-41:/drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "http://schemas.android.com/apk/res-auto.app-pngs-37:/drawable-hdpi/ic_launcher_foreground.png"
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_spinner_text.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/spinner_text.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/menu_menu_main_meet.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/menu/menu_main_meet.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_activity_recipe_details.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_recipe_details.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_baseline_star_outline_36.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_baseline_star_outline_36.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_launcher_round.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_activity_detail.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_app_icon.png.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/app_icon.png"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/drawable_ic_search.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-debug-34:/layout_result_item.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/result_item.xml"
     }
 ]
