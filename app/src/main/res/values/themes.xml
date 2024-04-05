@@ -1,13 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.MeetsAndroidLabs" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="Base.Theme.FinalProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="colorPrimary">@color/colorprimary</item>
-        <item name="colorSecondary">@color/colorsecondary</item>
-        <item name="android:statusBarColor">@color/mystatusbarcolor</item>
-        <item name="android:textColor">@color/color1</item>
-
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Algonquincst2335.mahe0111" parent="Theme.MeetsAndroidLabs"/>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.FinalProject" parent="Base.Theme.FinalProject" />
 </resources>

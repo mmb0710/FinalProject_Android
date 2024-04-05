@@ -1,4 +1,4 @@
-package algonquin.cst2335.mahe0111;
+package algonquin.cst2335.finalproject;
 
 import org.junit.Test;
 
