@@ -1,13 +1,17 @@
 <resources>
-    <!-- Assuming each app_name is for a different flavor or module -->
+    <string name="app_name">algonquin.CST2335pate1214</string>
+    <string name="hello_message" translatable="false">Hello World!</string>
+    <string name="button_message" translatable="false">I am button</string>
+    <string name="artistName" translatable="false">I am button</string>
+    <string name="search_hint" translatable="false">Enter artist name</string>
+    <string name="search_button_label" translatable="false">Search</string>
+    <string name="clear_button_label" translatable="false">Clear</string>
+    <string name="help_button_label" translatable="false">Help</string>
+    <!-- New strings added below -->
     <string name="flavorQuest">FlavorQuest</string>
     <string name="finalProject">Final Project</string>
     <string name="dictionaryApp">Dictionary App</string>
-
-    <!-- API Key -->
     <string name="api_key">4b6e3b52a39243c19aaa18aca7596835</string>
-
-    <!-- Tags Array -->
     <string-array name="tags">
         <item>main course</item>
         <item>side dish</item>
@@ -24,16 +28,11 @@
         <item>snack</item>
         <item>drink</item>
     </string-array>
-
-    <!-- Final Project Strings -->
     <string name="help" translatable="false">Help</string>
     <string name="help_title" translatable="false">Help Title</string>
     <string name="help_message" translatable="false">To get the sunrise and sunset times, please follow these steps:\n\n1. Enter the latitude and longitude in the designated fields.\n2. Press the \'Lookup\' button to retrieve the times.\n\nYou can view your saved locations in the list below. Click on any location to see more details or to delete it from the list.</string>
     <string name="lookup_button">Lookup</string>
     <string name="clear_button" translatable="false">Clear</string>
-
-    <!-- Dictionary App Strings -->
-    <!-- Placeholder text comment is preserved -->
     <string name="dictionary">Dictionary</string>
     <string name="recent">Recent</string>
     <string name="definitions">Definitions</string>
@@ -45,8 +44,6 @@
     <string name="test">Test your vocabulary</string>
     <string name="you_re_a_quizzard_harry">You\'re a Quizzard, Harry!</string>
     <string name="next">Next</string>
-
-    <!-- Level List Array -->
     <string-array name="levelList">
         <item>1</item>
         <item>2</item>
@@ -59,8 +56,6 @@
         <item>9</item>
         <item>10</item>
     </string-array>
-
-    <!-- Area List Array -->
     <string-array name="areaList">
         <item>ES</item>
         <item>MS</item>
