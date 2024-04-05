@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/activity_quiz.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/help_menu.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/help_menu.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/activity_main_gurminder.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/activity_main_gurminder.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/favourite_item.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/favourite_item.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/quiz_dialog.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/quiz_dialog.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/result_item.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/result_item.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-mergeDebugResources-36:/layout/activity_detail.xml",
+        "source": "algonquin.cst2335.finalproject.app-main-39:/layout/activity_detail.xml"
+    }
+]
