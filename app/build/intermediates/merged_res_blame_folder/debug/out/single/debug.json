@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_servings.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_servings.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_like.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_activity_main_meet.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_main_meet.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_list_meal_ingredients.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/list_meal_ingredients.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_list_similar_recipe.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/list_similar_recipe.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_app_icon.png.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/app_icon.png"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/menu_menu_main_meet.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/menu/menu_main_meet.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_launcher.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_list_random_recipe.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/list_random_recipe.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_search.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_spinner_text.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/spinner_text.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_time.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_activity_recipe_details.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/activity_recipe_details.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_launcher_round.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/layout_spinner_inner_text.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/layout/spinner_inner_text.xml"
+    }
+]
