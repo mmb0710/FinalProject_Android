@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/menu_menu_main_aditya.xml.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/menu/menu_main_aditya.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/xml_ic_launcher.xml.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/xml/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "algonquin.cst2335.finalproject.app-merged_res-34:/drawable_home.png.flat",
+        "source": "algonquin.cst2335.finalproject.app-main-36:/drawable/home.png"
+    },
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-merged_res-34:/drawable_app_icon.png.flat",
+        "source": "/Users/mmb0702/.gradle/daemon/8.2/algonquin.cst2335.finalproject.app-main-36:/drawable/app_icon.png"
+    }
+]

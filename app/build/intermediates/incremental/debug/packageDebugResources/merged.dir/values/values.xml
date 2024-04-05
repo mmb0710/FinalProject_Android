@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="color1">#CC712B</color>
+    <color name="colorprimary">#1BCC24</color>
+    <color name="colorsecondary">#1AABCF</color>
+    <color name="mystatusbarcolor">#27BF9C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Final Project</string>
+    <string name="clear_button" translatable="false">Clear</string>
+    <string name="help" translatable="false">Help</string>
+    <string name="help_message" translatable="false">To get the sunrise and sunset times, please follow these steps:\n\n1. Enter the latitude and longitude in the designated fields.\n2. Press the \'Lookup\' button to retrieve the times.\n\nYou can view your saved locations in the list below. Click on any location to see more details or to delete it from the list.</string>
+    <string name="help_title" translatable="false">Help Title</string>
+    <string name="lookup_button">Lookup</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+    </style>
+    <style name="Base.Theme.FinalProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FinalProject" parent="Base.Theme.FinalProject"/>
+</resources>

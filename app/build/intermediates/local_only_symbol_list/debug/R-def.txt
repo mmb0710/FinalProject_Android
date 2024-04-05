@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color color1
+color colorprimary
+color colorsecondary
+color mystatusbarcolor
+color white
+drawable app_icon
+drawable home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_help
+id clearButton
+id favoritesRecyclerView
+id latitudeEditText
+id longitudeEditText
+id lookupButton
+id main_layout
+id toolbar
+layout activity_main
+menu menu_main_aditya
+string app_name
+string clear_button
+string help
+string help_message
+string help_title
+string lookup_button
+style AppTheme
+style Base.Theme.FinalProject
+style Theme.FinalProject
+xml backup_rules
+xml data_extraction_rules
+xml ic_launcher
